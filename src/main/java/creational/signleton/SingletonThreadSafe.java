@@ -1,4 +1,4 @@
-package creational;
+package creational.signleton;
 
 /**
  * Created by Roma on 04.09.2016.

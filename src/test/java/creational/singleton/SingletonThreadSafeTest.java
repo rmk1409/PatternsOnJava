@@ -1,5 +1,6 @@
-package creational;
+package creational.singleton;
 
+import creational.signleton.SingletonThreadSafe;
 import org.junit.Test;
 
 import static org.junit.Assert.*;

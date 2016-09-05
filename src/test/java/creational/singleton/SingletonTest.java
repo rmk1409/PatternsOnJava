@@ -1,4 +1,6 @@
-package creational;
+package creational.singleton;
+
+import creational.signleton.Singleton;
 
 import static org.junit.Assert.*;
 

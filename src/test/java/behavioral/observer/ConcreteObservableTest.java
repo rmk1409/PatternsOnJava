@@ -1,10 +1,13 @@
-package behavioral.Observer;
+package behavioral.observer;
 
+import behavioral.observer.ConcreteObservable;
+import behavioral.observer.ObserverBye;
+import behavioral.observer.ObserverHello;
+import behavioral.observer.ObserverSilent;
 import org.junit.BeforeClass;
 import org.junit.Test;
 
 import java.io.*;
-import java.util.LongSummaryStatistics;
 
 import static org.junit.Assert.*;
 

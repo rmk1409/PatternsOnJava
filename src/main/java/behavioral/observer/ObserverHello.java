@@ -1,4 +1,4 @@
-package behavioral.Observer;
+package behavioral.observer;
 
 /**
  * Created by Roma on 04.09.2016.

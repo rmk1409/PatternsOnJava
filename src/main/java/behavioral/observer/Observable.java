@@ -1,6 +1,4 @@
-package behavioral.Observer;
-
-import behavioral.Observer.IObserver;
+package behavioral.observer;
 
 /**
  * Created by Roma on 04.09.2016.
